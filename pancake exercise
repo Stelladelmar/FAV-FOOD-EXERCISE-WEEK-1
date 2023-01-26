@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<h1>Pancake recipe</h1>
+<img src="pNa.jpg" alt="pancakes">
+<h2>A quick and easy recipe to make pancakes!</h2>
+<strong>Ingredients<strong>
+  <ul>175g flour</ul>
+  <ul>3 eggs</ul>
+  <ul>450ml milk</ul>
+  <ul>Sunflower oil</ul>
+<strong>Method</strong>
+  <ol>Add the flour, eggs, and milk to a bowl</ol>
+  <ol>Whisk the mixture and set it aside for half an hour</ol>
+  <ol>Heat a pan and add some sunflower oil</ol>
+  <ol>Add some of the mix to the pan and cook for a few minutes</ol>
+  <ol>Flip and cook the other side until done, then serve</ol>
+</div>
